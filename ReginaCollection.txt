@@ -1,0 +1,33 @@
+Album Bossa Nova
+
+Songs
+
+Name Samba do aviao
+Artist Os cariocas
+Duration 154
+Genre bossa nova
+
+Name Barquinho
+Artist Roberto Menescal
+Duration 186
+Genre bossa nova
+
+Name Aguas de Marco
+Artist Elis Regina
+Duration 182
+Genre bossa nova
+
+Album Best of Queen
+
+Songs
+
+Name Bohemian Rhapsody
+Artist Queen
+Duration 354
+Genre rock
+
+Name Under Pressure
+Artist Queen
+Duration 248
+Genre rock
+
